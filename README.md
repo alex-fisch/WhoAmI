@@ -1,7 +1,5 @@
-- 👋 Hey I'm Alex!
-- 👀 I’m interested in Cybersecurity, Blockchain development, and the Metaverse!
-- 🌱 I’m currently attending Montana State university for a B.S in Computer Science!
-- 💞️ I’m looking to collaborate on anything really, just to get my experience up!
-- 📫 Best way to contact me is through email: alexfischer2468@gmail.com
-
-
+Hello!
+- I'm Alex Fischer, a 21 year old Senior attending Montana State University for my B.S in Computer Science!
+- My interests include; Cybersecurity, Blockchain development, Robotics, and the Metaverse!
+- If you are looking to collaborate or have a question, shoot me an email: alexfischer2468@gmail.com
+- To see projects I have been a part of or my portfolio, visit my website: https://alex-fisch.github.io/
